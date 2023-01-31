@@ -7,3 +7,13 @@ nav{
     padding: 20px 60px;
     background-color:royalblue;
 }
+.banner{
+    background-size: cover;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-image: url("https://media.springernature.com/full/springer-cms/rest/v1/img/23611344/v1/height/320");
+}
+footer{
+    padding: 30px 60px;
+    background-color: aqua;
+}
